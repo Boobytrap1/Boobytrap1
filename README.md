@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Boobytrap1
-- 👀 I’m interested in everting
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in you
+- 🌱 I’m currently learning your ip address
+- 💞️ I’m looking to collaborate on samim kasim
 - 📫 How to reach me : no
 - are you fucking tired ?
 
