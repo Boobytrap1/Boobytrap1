@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Wave Banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hey%2C%20I'm%20Guy%20Keller%20👋&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Security%20Researcher%20%7C%20Code%20%26%20Break%20Things&descAlignY=58&descSize=18&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hey%2C%20I'm%20Guy%20Keller%20👋&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Security%20Researcher%20%7C%20Code%20%26%20Break%20Things&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt=""/>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&lines=🔐+Security+Researcher;🐍+Python+%7C+C%2FC%2B%2B+%7C+Java+%7C+TypeScript;🛡️+Breaking+Things+to+Make+Them+Safer;💻+Always+Learning%2C+Always+Hacking)](https://git.io/typing-svg)
@@ -88,7 +88,7 @@ me.say_hi()
 <div align="center">
 
 <!-- Footer Wave -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" width="100%" alt=""/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Boobytrap1&color=7B68EE&style=for-the-badge&label=Profile+Views)
 
