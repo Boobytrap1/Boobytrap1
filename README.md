@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Wave Banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hey%2C%20I'm%20Guy%20👋&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20%7C%20Code%20%26%20Break%20Things&descAlignY=58&descSize=18&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hey%2C%20I'm%20Guy%20Keller%20👋&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Security%20Researcher%20%7C%20Code%20%26%20Break%20Things&descAlignY=58&descSize=18&animation=fadeIn)
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&lines=🔐+Security+Researcher;🐍+Python+%7C+C%2FC%2B%2B+%7C+Java+%7C+TypeScript;🛡️+Breaking+Things+to+Make+Them+Safer;💻+Always+Learning%2C+Always+Hacking)](https://git.io/typing-svg)
@@ -17,8 +17,8 @@
 
 class Guy:
     def __init__(self):
-        self.name        = "Guy"
-        self.role        = "Cybersecurity Enthusiast"
+        self.name        = "Guy Keller"
+        self.role        = "Security Researcher"
         self.focus       = ["Penetration Testing", "Reverse Engineering", "CTF Challenges"]
         self.languages   = ["Python", "C/C++", "Java", "JavaScript/TypeScript"]
         self.interests   = ["Exploit Development", "Network Security", "Malware Analysis"]
@@ -51,6 +51,15 @@ me.say_hi()
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white)
+
+### 🔍 Digital Forensics
+![OSForensics](https://img.shields.io/badge/OSForensics-1A1A2E?style=for-the-badge&logo=windows&logoColor=7B68EE)
+![Autopsy](https://img.shields.io/badge/Autopsy-2C2C54?style=for-the-badge&logo=files&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-4A235A?style=for-the-badge&logo=linux&logoColor=white)
+![FTK Imager](https://img.shields.io/badge/FTK_Imager-512DA8?style=for-the-badge&logo=databricks&logoColor=white)
+![Sleuth Kit](https://img.shields.io/badge/Sleuth_Kit-6A1B9A?style=for-the-badge&logo=linux&logoColor=white)
+![Binwalk](https://img.shields.io/badge/Binwalk-7B1FA2?style=for-the-badge&logo=gnu&logoColor=white)
 
 ### ⚙️ Dev Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -81,7 +90,7 @@ me.say_hi()
 <!-- Footer Wave -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=7B68EE&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Boobytrap1&color=7B68EE&style=for-the-badge&label=Profile+Views)
 
 *"The quieter you become, the more you are able to hear." — Kali Linux motto* 🔐
 
