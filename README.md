@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hey%2C%20I'm%20Guy%20Keller%20👋&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Security%20Researcher%20%7C%20Code%20%26%20Break%20Things&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt=""/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&lines=🔐+Security+Researcher;🐍+Python+%7C+C%2FC%2B%2B+%7C+Java+%7C+JavaScript;🛡️+Breaking+Things+to+Make+Them+Safer;💻+Always+Learning%2C+Always+Hacking)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&lines=🔐+Security+Researcher;🐍+Python+%7C+C%2FC%2B%2B+%7C+Java+%7C+JavaScript;🛡️+Breaking+Things+to+Make+Them+Safer;🔎+Every+File+Has+a+Story)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,7 +20,7 @@ class Guy:
         self.name        = "Guy Keller"
         self.role        = "Security Researcher"
         self.focus       = ["Penetration Testing", "Reverse Engineering", "CTF Challenges"]
-        self.languages   = ["Python", "C/C++", "Java", "JavaScript"]
+        self.languages   = ["Python", "C/C++", "Java", "JavaScript", "Assembly"]
         self.interests   = ["Exploit Development", "Network Security", "Malware Analysis"]
         self.motto       = "Break it to understand it. Understand it to protect it. 🔐"
 
@@ -44,6 +44,7 @@ me.say_hi()
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 ### 🔐 Security Tools
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
